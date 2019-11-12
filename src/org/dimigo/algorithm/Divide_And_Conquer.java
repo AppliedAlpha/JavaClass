@@ -23,4 +23,5 @@ public class Divide_And_Conquer {
         if (n == 0) return 1;
         else return a * pow2(a, n - 1);
     }
+
 }
