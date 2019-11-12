@@ -1,0 +1,2 @@
+# JavaClass
+KDMHS Java Class
