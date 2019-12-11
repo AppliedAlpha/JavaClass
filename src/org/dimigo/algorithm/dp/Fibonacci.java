@@ -1,4 +1,4 @@
-package org.dimigo.algorithm;
+package org.dimigo.algorithm.dp;
 
 import java.util.Scanner;
 
